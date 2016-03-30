@@ -1,0 +1,25 @@
+doctype html
+html(lang='zh-CN' ng-controller='LayoutController')
+    head
+        meta(charset='utf-8')
+        script(type='text/javascript' src='/lib/angular/angular.min.js')
+        script(type='text/javascript' src='/lib/angular/ng-file-upload.min.js')
+        script(type='text/javascript' src='/js/controllers/upload.js')
+    body(ng-app="fileUpload" ng-controller="MyCtrl")
+        h4.
+            选择文件上传
+        button(ngf-select="uploadFiles($files,$invalidFiles)" multiple  ngf-max-size="1MB").
+            选择文件
+        h3.
+            文件:
+        ul
+            li(ng-repeat="f in files" style="font:smaller")
+                |{{f.name}}{{f.$errorParam}}
+                span(class="progress" ng-show= "f.progress >= 0")
+                    div(style="width:{{f.progress}}%" ng-bind="f.progress+'%'")
+            li(ng-repeat="f in errFiles" style="font:smaller").
+                {{f.name}}{{f.$error}}{{f.$errorParam}}
+        |{{errorMsg}}
+
+        a( ng-repeat="path in filesPath" href="{{path}}" ).
+            {{path}}

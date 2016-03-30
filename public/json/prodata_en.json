@@ -1,0 +1,72 @@
+{
+    "Kangaroo Essence": {
+        "img_name": "daishujing",
+        "pro_name": "Kangaroo Essence",
+        "specification": "30 capsules / 90 capsules",
+        "intro": "Suitable for adult males.",
+        "ingredient": "Kangaroo powder, locust bean, Vitamin",
+        "description": "This Australian specialty is a preferred supplement for men. Naturally high in male hormones, it is known as a “Male Treasure”.&#10;The Australian kangaroo is highly regarded for its vigour and fertility. This high quality kangaroo essence is extracted from the adult male Australian kangaroo."
+    },
+    "High Strength Cranberry": {
+        "img_name": "manyuemei",
+        "pro_name": "High Strength Cranberry",
+        "specification": "30 capsules / 90 capsules",
+        "intro": "30 capsules / 90 capsules",
+        "ingredient": "Cranberry extract",
+        "description": "Cranberries are a natural antibacterial fruit offering health benefits to women by preventing urinary tract infections. &#10;Cranberries are tiny red berries rich in nutrients. They are an abundant source of Vitamin C and have the highest concentration of essential nutrients among fruit and vegetables with innumerable health benefits."
+    },
+    "Evening Primrose Oil": {
+        "img_name": "yuejiancao",
+        "pro_name": "Evening Primrose Oil",
+        "specification": "270 capsules",
+        "intro": "Suitable for women suffering from premenstrual stress.",
+        "ingredient": "Evening primrose oil (1200mg/ capsule), γ-linolenic acid",
+        "description": "The Evening Primrose Oil is regarded as the most important nutraceutical discovery of the century. It can be used to treat a variety of ailments. &#10;The evening primrose is known as the “Royal Imperial Medicine” and as the “King’s Medicine” in Europe. &#10;The Evening Primrose Oil is rich in linolenic acid and other nutrients, helping you to maintain good health, it may reduce the effects of premenstrual stress and other menopausal symptoms."
+    },
+    "Co Q10": {
+        "img_name": "fumei",
+        "pro_name": "Co Q10",
+        "specification": "30 capsules / 90 capsules",
+        "ingredient": "coenzyme Q10 (150mg/capsule)",
+        "description": "In the human body the abundance of coenzyme Q10 decreases with age. This decrease, combined with unhealthy habits may affect the health of your heart. Coenzyme Q10 is known as the guardian of the heart and builds up immunity. It has antioxident properties, which may delay aging and improve overall vitality"
+    },
+    "Odourless High Strength Wild Fish Oil": {
+        "img_name": "shenhaiyuyou",
+        "pro_name": "Odourless High Strength Wild Fish Oil",
+        "specification": "180 capsules",
+        "intro": "Suitable for people who want to improve heart, brain, eye or joint health.",
+        "ingredient": "Fish oil (1500mg/capsule), Vitamin E",
+        "description": "Deep sea fish oil originates from the deep sea where there is little or no pollution and is extracted as an unsaturated fat from fish. It is perfect for improving eyesight and is beneficial especially for the heart, brain, joints and eyes.&#10;It is rich in nutrients such as Omega-3 fatty acid, DHA and EPA, deep sea fish oil can improve blood circulation and may enhance memory."
+    },
+    "Organic Spirulina": {
+        "img_name": "luoxuanzao",
+        "pro_name": "Organic Spirulina",
+        "specification": "30 capsules / 90 capsules",
+        "intro": "Suitable for people with a weakened immune system or those looking to improve their overall health and wellbeing.",
+        "ingredient": "Organic spirulina, Magnesium stearate",
+        "description": "Organic spirulina is a natural health care product. It is an excellent source of natural protein discovered in recent times which is rich in properties such as linolenic acid and a-Linolenic acid. &#10;Spirulina is an organic food growing in natural environments with a rich source of nutrients, free from any chemical constituents or artificial additives.&#10;The protein content in organic spirulina boosts the body’s immune system.  Additional benefits are blood acid-base balance, aiding to lower cholesterol, prevent anemia and assist in fat metabolism."
+    },
+    "Lung Health Support": {
+        "img_name": "qingfeiling",
+        "pro_name": "Lung Health Support",
+        "specification": "30 tablets / 90 tablets",
+        "intro": "Suitable for people with a chronic cough, asthma, chest congestion, pollen allergies and people living in an environment with pollution.",
+        "ingredient": "Folium eriobotryae, fritillaria cirrhosa, liquorice, lucid ganoderma, burdock",
+        "description": "We live in an environment that is polluted and poses risks to our health, particularly our lungs.  &#10;The Lung Health Support is created to eliminate the harmful effects of a polluted environment.  &#10;Its compound formula developed by combining traditional natural herbal medicine with modern high-technology processing, provides a unique product designed to overcome the risks we are exposed to from our environment."
+    },
+    "Liver Health Complex": {
+        "img_name": "baoganning",
+        "pro_name": "Liver Health Complex",
+        "specification": "60 tablets / 180 tablets",
+        "ingredient": "Silybum Marianum, turmeric, Pueraria Mirifica",
+        "description": "The Liver Health Complex is suitable for people who need to maintain their liver's health.  Its main active ingredient, Silybum Marianum, may help in protecting liver cells.  It aids  liver detoxification and has remedial qualities."
+    },
+    "Glucosamine Sulfate": {
+        "img_name": "weigusu",
+        "pro_name": "Glucosamine Sulfate",
+        "specification": "30 tablets / 90 tablets",
+        "intro": "Suitable for people with cartilage wear and tear, arthritis or people that need joint health care with an increase in age.",
+        "ingredient": "Glucosamine sulfate (1500mg/tablet)",
+        "description": "Famous for its reputation of being a joint lubricant, Glucosamine Sulfate has gained momentum over the years as a guardian of joint health. &#10;The human joints are subject to wear and tear which may result in series of joint problems. As a natural component of cartilage matrix, glucosamine sulfate readily assists with rheumatism, and alleviates joint pain caused by osteoarthritis."
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "excel2json",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.13.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "chai": "*",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.1",
+    "express-session": "^1.13.0",
+    "grunt": "~0.4.0",
+    "grunt-excel-vocabulary": "^1.0.1",
+    "jscover": "*",
+    "method-override": "^2.3.5",
+    "mocha": "*",
+    "morgan": "^1.7.0",
+    "rewire": "*",
+    "serve-static": "^1.10.2",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make test",
+    "test-cov": "make test-cov"
+  }
+}
